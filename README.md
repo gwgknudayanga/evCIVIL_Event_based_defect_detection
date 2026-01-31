@@ -4,8 +4,8 @@ ev-CIVIL: Event-Based Dataset for Visual Detection of Civil Infrastructure Defec
 Here is the archived version of our journal paper which is under review. The paper contains the link to the dataset which contain both events and frames captured simultaneously under different lighting conditions.
 If you found our data/paper/code important or useful please cite our paper. Thank you !!!
 
-Our published paper is now available at https://journals.sagepub.com/eprint/Y8XNQDJ63N7PKBMS3PTV/full
-Dataset can be downloaded from https://doi.org/10.11583/DTU.25924228
+* Our published paper is now available at https://journals.sagepub.com/eprint/Y8XNQDJ63N7PKBMS3PTV/full
+* Dataset can be downloaded from https://doi.org/10.11583/DTU.25924228
 
 The previous archived version is available @ http://arxiv.org/abs/2504.05679 (Event-based Civil Infrastructure Visual Defect Detection: ev-CIVIL Dataset and Benchmark)
 
